@@ -1,4 +1,7 @@
-# test coverage for  [lite-server (v2.3.0)](https://github.com/johnpapa/lite-server#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-lite-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-lite-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-lite-server.svg)](https://travis-ci.org/npmtest/node-npmtest-lite-server)
+# npmtest-lite-server
+
+#### basic test coverage for  [lite-server (v2.3.0)](https://github.com/johnpapa/lite-server#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-lite-server.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-lite-server) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-lite-server.svg)](https://travis-ci.org/npmtest/node-npmtest-lite-server)
+
 #### Lightweight development node server for serving a web app, providing a fallback for browser history API, loading in the browser, and injecting scripts on the fly.
 
 [![NPM](https://nodei.co/npm/lite-server.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/lite-server)
